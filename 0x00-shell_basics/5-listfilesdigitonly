@@ -1,0 +1,20 @@
+#!/bin/bash
+total 24                                                                                                                                                 
+
+drwxr-xr-x 2 root root 167 Aug 31 08:41 .                                                                                                                
+
+drwxr-xr-x 4 root root  60 Aug 31 07:13 ..                                                                                                               
+
+-rwxr--r-- 1 root root  16 Aug 31 07:26 0-current_working_directory                                                                                      
+
+-rwxr--r-- 1 root root  15 Aug 31 07:49 1-listit                                                                                                         
+
+-rwxr--r-- 1 root root  17 Aug 31 08:01 2-bring_me_home                                                                                                  
+
+-rwxr--r-- 1 root root  18 Aug 31 08:10 3-listfiles                                                                                                      
+
+-rwxr--r-- 1 root root  19 Aug 31 08:29 4-listmorefiles                                                                                                  
+
+-rw-r--r-- 1 root root   0 Aug 31 08:41 5-listfilesdigitonly                                                                                             
+
+-rw-r--r-- 1 root root  52 Aug 31 08:18 README.md 
