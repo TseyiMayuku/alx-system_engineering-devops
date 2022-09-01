@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod vgo*x */ 
+chmod vgO+x */ 
