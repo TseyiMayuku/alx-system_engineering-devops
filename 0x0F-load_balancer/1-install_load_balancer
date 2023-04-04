@@ -14,7 +14,7 @@ frontend Tseyi-frontend
         bind *:80
         mode http
         default_backend Tseyi-backend
-backend yonas-backend
+backend Tseyi-backend
         balance roundrobin
         server 134946-web-01 100.25.198.131:80 check
         server 134946-web-02 54.173.246.197:80 check
