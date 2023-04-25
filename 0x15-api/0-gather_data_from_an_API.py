@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """script using this REST API, for a given employee ID,
 which will return information about his/her TODO list progress."""
-
 import requests as r
 import sys
 
